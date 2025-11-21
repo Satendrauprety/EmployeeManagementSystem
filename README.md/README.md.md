@@ -25,5 +25,5 @@ It covers **CRUD operations, joins, aggregate functions, and reports**.
 4. Run `SQL/practice_queries.sql` to practice queries and reports.
 
 ## Author
-Your Name
+
 SATENDRA SHARMA
