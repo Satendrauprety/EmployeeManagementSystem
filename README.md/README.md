@@ -1,29 +1,48 @@
 # Employee Management System - SQL Project
 
 ## Description
-This project is a **database-based Employee Management System** for practicing SQL queries.  
-It covers **CRUD operations, joins, aggregate functions, and reports**.
+
+This project is a database-based Employee Management System developed using MySQL for practicing SQL queries and database management concepts.
+
+It covers CRUD operations, joins, aggregate functions, subqueries, and reporting queries.
 
 ## Tables
-1. EmployeeInfo
-2. Department
-3. SalaryHistory
-4. Attendance
-5. ProjectAssignments
+
+* EmployeeInfo
+* Department
+* SalaryHistory
+* Attendance
+* ProjectAssignments
 
 ## Features
-- Add / Update / Delete employees
-- Track salary changes
-- Track daily attendance
-- Assign projects
-- Generate reports (highest salary, age groups, department-wise employees)
+
+* Add, update, and delete employee records
+* Track salary history and changes
+* Manage daily attendance records
+* Assign projects to employees
+* Generate analytical reports and SQL-based insights
+
+## SQL Concepts Used
+
+* CRUD Operations
+* JOINS
+* Aggregate Functions
+* GROUP BY & HAVING
+* Subqueries
 
 ## Setup Instructions
-1. Open MySQL / MariaDB.
-2. Run `SQL/create_tables.sql` to create all tables.
-3. Run `SQL/insert_sample_data.sql` to insert sample data.
-4. Run `SQL/practice_queries.sql` to practice queries and reports.
+
+1. Open MySQL or MariaDB.
+2. Run `create_tables.sql` to create tables.
+3. Run `insert_sample_data.sql` to insert sample data.
+4. Run `practice_queries.sql` and `practice_queries_advanced.sql` to execute practice queries.
+
+## Tools & Technologies
+
+* SQL
+* MySQL
+* GitHub
 
 ## Author
 
-SATENDRA SHARMA
+Satendra Sharma
